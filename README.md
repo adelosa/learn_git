@@ -3,4 +3,4 @@
 
 ## Contributors
 
-* [Anthony Delosa](https://github.com/adelosa)
+* [Anthony Delosa](anthony.md)
