@@ -1,5 +1,6 @@
 # Learn Git
 
+Its great!
 
 ## Contributors
 
